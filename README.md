@@ -1,4 +1,4 @@
-# TheIllusionistsMaze
+# The Illusionist's Maze
 Theme:
 You are a aging showgirl, and you've had just about enough of these magicians and illusionists, you know how to stack a deck and get cut in half with the best of them it's time they let you in on their secrets. The Illusionist you've working for has told you to meet him at the warehouse he practices at and says he'll teach you magic, IF you can successfully identify magic and illusion.
 Upon entering his warehouse you find yourself in a hall of mirrors were you must find an exit.
